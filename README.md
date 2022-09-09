@@ -293,7 +293,7 @@ reads or understands them afterwards.
 
 That makes regular expressions a place where comments can
 really help. In some circumstances you can also do things like
-give names to parts of a regular by assigning them to variables,
+give names to parts of a regular expression by assigning them to variables,
 although that's not easy in `bash` scripts.
 
 #### Regex examples
